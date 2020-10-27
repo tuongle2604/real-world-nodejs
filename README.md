@@ -1,4 +1,4 @@
-# real-world-vuejs (in progress)
+# real-world-nodejs (in progress)
 More detail: https://github.com/gothinkster/realworld
 
 ## Project setup
