@@ -1,0 +1,6 @@
+{
+  "properties": {
+    "limit": { "type": "integer" },
+    "offset": { "type": "integer", "default": 0 }
+  }
+}
